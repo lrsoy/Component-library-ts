@@ -1,6 +1,6 @@
 <!-- home -->
 <template>
-  <div>创建组件</div>
+  <div class="bg-slate-500">创建组件</div>
 </template>
 
 <script setup lang="ts">
