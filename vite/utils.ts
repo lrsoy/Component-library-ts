@@ -1,5 +1,5 @@
-export function parseEnv(env: Record<string, any>) {
 
+export function parseEnv(env: Record<string, any>): ViteEnv {
   const envs: any = JSON.parse(JSON.stringify(env));
   Object.entries(envs).forEach(([key, value]) => {
     if (value === 'true' || envs[key] === 'false') { // 处理布尔值
