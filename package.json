@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@types/node": "^17.0.31",
+    "axios": "^0.27.2",
     "mockjs": "^1.1.0",
     "vue": "^3.2.25"
   },
