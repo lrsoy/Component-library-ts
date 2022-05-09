@@ -1,2 +1,2 @@
-const a: string = '测试内容'
-export default a
+import axios from "axios";
+import qs from "qs";

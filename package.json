@@ -9,8 +9,10 @@
   },
   "dependencies": {
     "@types/node": "^17.0.31",
+    "@types/qs": "^6.9.7",
     "axios": "^0.27.2",
     "mockjs": "^1.1.0",
+    "qs": "^6.10.3",
     "vue": "^3.2.25"
   },
   "devDependencies": {
